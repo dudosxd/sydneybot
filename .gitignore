@@ -1,0 +1,10 @@
+.deta/*
+node_modules/*
+photos/*
+
+.deta/
+node_modules/
+photos/
+
+.env
+config.js
