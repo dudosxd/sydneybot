@@ -75,3 +75,6 @@ export const roles = [
         name: `Битмейкер`
     }
 ];
+
+export const cat_prompts = [
+]

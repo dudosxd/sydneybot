@@ -8,3 +8,9 @@ photos/
 
 .env
 config.js
+example.js
+
+debug/
+debug/*
+
+main2.js
