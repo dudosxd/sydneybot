@@ -1,6 +1,12 @@
 export const TOKEN = '*'; // TELEGRAM BOT TOKEN
 export const userToken = `*`; // _U cookie from bing new
 export const ishf = false; // turn it on if you using it on huggingface spaces
+
+export const OpenAIAPI = '';
+export const GPT4API = '';
+export const MaxThreads = 1; // nothing
+export const Update = 1000; // nothing
+
 export const roles = [
     {
         id: 'Sydney',
